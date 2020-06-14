@@ -1,5 +1,8 @@
 # main links links
 main:
     
-    - title: "Bio"
+  - title: "Bio"
     url: /cv/
+  
+  - title: "Contact"
+    url: /contact/
