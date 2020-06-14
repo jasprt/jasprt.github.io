@@ -22,4 +22,5 @@ Solving Problems with Software by Duke University
 * Virtual Internship: Software Engineering Virtual Experience by J.P Morgan Chase & Co.
 * Linux Admin: DNS & DHCP, Cloud Management, NFS, ISCSI
 * Received High Performer award at Infosys Ltd. for developing hotel booking module
-* Ranked top 10 nationwide
+* Ranked top 10 nationwide in Formula-3 car race championship by Society of Automotive
+Engineering (SAE), US
