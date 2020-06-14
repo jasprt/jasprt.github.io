@@ -11,49 +11,30 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Mechanical Engineering, Punjabi University, 2017
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2019 - Current: Senior Systems Engineer
+  * Infosys
+  * Developed/Enhanced trade booking system for Securities and listed and Bonds for give-up trades (Java IntelliJ IDE)
+  * Developed module for Virtual confirmation of Fixed-Income trade booking to clients with REST API
+* 2017 - 2019: Systems Engineer
+  * Infosys
+  * Developed automated script for trade searching in Java in conjunction with shell script ( UNIX) and SQL (Sybase & DB2) to parse data to all available Data Bases for Booking Parsing
+  * Managed issues including daily health checks of applications and processes, working closely with operations teams to prioritise and resolve and/or mitigate incidents
+  * Monitor production processes to ensure timely and effective MIFID II Equities reporting, followup and communication of problems to internal and external clients
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Programming: Java, Python, JavaScript, Shell Programming and Scripting, SQL, PL/ SQL,
+HTML, CSS, Microsoft Excel
+* Linux Admin: DNS & DHCP, Cloud Management, NFS, ISCSI
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Activist at National Service Scheme (NSS) India
+* Leadership Experience: Class Representative at Punjabi Universisty
+* Inter University Sports at Punjabi University Committee Associate
+* Students’ Affairs Committee member at Punjabi Universisty
+* Teaching Assistant – Computer Programming lab and Electronics lab at Punjabi Universisty
