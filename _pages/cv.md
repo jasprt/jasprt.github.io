@@ -15,24 +15,22 @@ Education
 
 Work experience
 ======
-* 2019 - Current: Senior Systems Engineer
-  * Infosys
+* 2019 - Current: Senior Systems Engineer at Infosys
   * Developed/Enhanced trade booking system for Securities and listed and Bonds for give-up trades (Java IntelliJ IDE)
   * Developed module for Virtual confirmation of Fixed-Income trade booking to clients with REST API
 
-* 2017 - 2019: Systems Engineer
-  * Infosys
+* 2017 - 2019: Systems Engineer at Infosys
   * Developed automated script for trade searching in Java in conjunction with shell script ( UNIX) and SQL (Sybase & DB2) to parse data to all available Data Bases for Booking Parsing
   * Managed issues including daily health checks of applications and processes, working closely with operations teams to prioritise and resolve and/or mitigate incidents
   * Monitor production processes to ensure timely and effective MIFID II Equities reporting, followup and communication of problems to internal and external clients
   
-* Mahindra & Mahindra: 2017 Production QA Engineer Associate
+* Summer 2017: Production QA Engineer Associate at Mahindra
   * Implemented cost reduction techniques while maintaining high quality standards using TPM
   * Designed Pedal breaking system for 960 c.c engines increasing efficiency by 35%
   * Investigate all client complaints and issues and Identify root cause and correcting process.
   * Helped in increasing Quality standards of products to 95% overall
 
-* Honda Cars India Ltd. Gurgaon, India 2015 Production Engineer Intern
+* Summer 2015: Production Engineer Intern at Honda
   * Planned and coordinated production processes on daily basis to produce high quality cars
   * Performed engineering analysis to reduce downtime and outages of Robotic Arm Machines
   * Analysed Robotic Arms to reduce inventory cost using analytical data and CAD tooling
