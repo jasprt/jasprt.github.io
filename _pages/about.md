@@ -12,13 +12,7 @@ redirect_from:
 * I received my Bachelor’s Degree from [Punjabi University](http://www.punjabiuniversity.ac.in) in 2017.
 
 ---
-permalink: /
 title: "Skills/Awards"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
 • Programming: Java, Python, JavaScript, Shell Programming and Scripting, SQL, PL/ SQL,
