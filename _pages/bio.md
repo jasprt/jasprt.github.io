@@ -45,7 +45,7 @@ HTML, CSS, Microsoft Excel
 Service and leadership
 ======
 * Activist at National Service Scheme (NSS) India
-* Leadership Experience: Class Representative at Punjabi Universisty
+* Leadership Experience: Class Representative at Punjabi University
 * Inter University Sports at Punjabi University Committee Associate
-* Students’ Affairs Committee member at Punjabi Universisty
-* Teaching Assistant – Computer Programming lab and Electronics lab at Punjabi Universisty
+* Students’ Affairs Committee member at Punjabi University
+* Teaching Assistant – Computer Programming lab and Electronics lab at Punjabi University
