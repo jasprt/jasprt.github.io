@@ -27,4 +27,4 @@ HTML, CSS, Microsoft Excel
 Engineering SAE](https://www.saeindia.org/)
 
 # Current Project
-I am architecting a System-Design for helping onboard new line of Businesses at High&Low level Front-to-Back on Software Platform
+Architecting High&Low level System Design for helping onboard new line of Businesses Front-to-Back on Software Platform
