@@ -25,3 +25,6 @@ HTML, CSS, Microsoft Excel
 * Received High Performer award at Infosys Ltd. for developing hotel booking module
 * Ranked top 10 nationwide in Formula-3 car race championship by [Society of Automotive
 Engineering SAE](https://www.saeindia.org/)
+
+# Current Project
+I am currently working on designing a System-Design for helping develop a new line of Business at High&Low level Front-to-Back
