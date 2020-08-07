@@ -11,9 +11,9 @@ title                    : "Jaspreet Singh"
 title_separator          : "-"
 name                     : &name "Jaspreet Singh"
 description              : &description "Software Engineer & Data Analyst"
-url                      : https://jass84.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://jsprt.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "jass84/jass84.github.io"
+repository               : "jsprt/jsprt.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -89,13 +89,13 @@ author:
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
-  linkedin         : "jaspreet-singh84"
+  linkedin         : "jsprt"
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "jass84"
+  github           : "jsprt"
   google_plus      :
   keybase          :
   instagram        :
