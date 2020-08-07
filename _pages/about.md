@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-* I am working with [Infosys](https://www.infosys.com/) as Senior Systems Engineer in the role of Technology Analyst for [Goldman Sachs's](https://www.goldmansachs.com/index.html) Investment Banking Business specializing in developing trade booking systems for [Securities](https://www.goldmansachs.com/what-we-do/global-markets/index.html).
+* I am working with [Infosys](https://www.infosys.com/) as a Software Engineer in collaboration with [Goldman Sachs](https://www.goldmansachs.com/index.html)specializing in developing trade booking systems for [Securities](https://www.goldmansachs.com/what-we-do/global-markets/index.html) business.
 * I received my Bachelor’s Degree from [Punjabi University](http://www.punjabiuniversity.ac.in) in 2017.
 
 
@@ -27,4 +27,4 @@ HTML, CSS, Microsoft Excel
 Engineering SAE](https://www.saeindia.org/)
 
 # Current Project
-Architecting High&Low level System Design for helping onboard new line of Businesses Front-to-Back on Software Platform. Sample for learners [here](https://github.com/jass84/LoadBalancingExample)
+Working on an Android Application SharingApp that let's user mantain a repository of items available in stock or if lent to any Contact. Sample for learners [here](https://github.com/jasprt/SharingApp)
