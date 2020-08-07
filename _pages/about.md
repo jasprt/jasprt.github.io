@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-* I am working with [Infosys](https://www.infosys.com/) as a Software Engineer in collaboration with [Goldman Sachs](https://www.goldmansachs.com/index.html)specializing in developing trade booking systems for [Securities](https://www.goldmansachs.com/what-we-do/global-markets/index.html) business.
+* I am working as a Software Engineer with [Infosys](https://www.infosys.com/) in collaboration with [Goldman Sachs](https://www.goldmansachs.com/index.html) specializing in developing trade booking systems for [Securities](https://www.goldmansachs.com/what-we-do/global-markets/index.html) business.
 * I received my Bachelor’s Degree from [Punjabi University](http://www.punjabiuniversity.ac.in) in 2017.
 
 
