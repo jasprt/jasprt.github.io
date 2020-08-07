@@ -17,6 +17,7 @@ redirect_from:
 * Programming: Java, Python, JavaScript, Shell Programming and Scripting, SQL, PL/ SQL,
 HTML, CSS, Microsoft Excel
 * [Coursera](https://www.coursera.org/user/5f986e4bd78cc280d4d6ee5e9e33005c) Certifications: 
+  * Object Oriented System Design Architecture
   * Introduction to Data Science in Python by University of Michigan
   * Object Oriented Programming in Java by University of California San Diego
   * Java Programming: Solving Problems with Software by Duke University
