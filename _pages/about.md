@@ -9,7 +9,8 @@ redirect_from:
 ---
 
 * I am working as a Software Engineer with [Infosys](https://www.infosys.com/) in collaboration with [Goldman Sachs](https://www.goldmansachs.com/index.html) specializing in developing trade booking systems for [Securities](https://www.goldmansachs.com/what-we-do/global-markets/index.html) business.
-* I received my Bachelor’s Degree from [Punjabi University](http://www.punjabiuniversity.ac.in) in 2017.
+* Pursuing PG Diploma from [IIIT-Bangalore](https://www.iiitb.ac.in/)
+* Received my Bachelor’s Degree from [Punjabi University](http://www.punjabiuniversity.ac.in) in 2017.
 
 
 # Skills/Awards
@@ -28,4 +29,4 @@ HTML, CSS, Microsoft Excel
 Engineering SAE](https://www.saeindia.org/)
 
 # Current Project
-Working on an Android Application SharingApp that let's user mantain a repository of items available in stock or if lent to any Contact. Sample for learners [here](https://github.com/jasprt/SharingApp)
+Working on an Android Application SharingApp that lets the user maintain a repository of items available in stock or if lent to any Contact. Sample for learners [here](https://github.com/jasprt/SharingApp)
