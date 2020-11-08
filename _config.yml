@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jaspreet Singh"
 title_separator          : "-"
 name                     : &name "Jaspreet Singh"
-description              : &description "Software Engineer & Data Analyst"
+description              : &description "Software Engineer"
 url                      : https://jasprt.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jasprt/jasprt.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jaspreet Singh"
   avatar           : "profile.png"
-  bio              : "Software Engineer & Data Analyst"
+  bio              : "Software Engineer"
   location         : "Bangalore, India"
   employer         : Infosys
   email            : singhjaspreet821@gmail.com
