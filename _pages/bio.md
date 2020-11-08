@@ -11,15 +11,16 @@ redirect_from:
 
 Education
 ======
+* Pursuing Post Graduate Diploma in Software Development from IIIT-Bangalore
 * B.S. in Mechanical Engineering, Punjabi University, 2017
 
 Work experience
 ======
-* 2019 - Current: Senior Software Engineer at Infosys
+* 2019 - Current: Technology Analyst, Infosys
   * Developed/Enhanced trade booking system for Securities and listed and Bonds for give-up trades (Java IntelliJ IDE)
-  * Developed module for Virtual confirmation of Fixed-Income trade booking to clients with REST API
+  * Developed modules for Virtual confirmation of Fixed-Income trade booking to clients with REST API
 
-* 2017 - 2019: Software Engineer at Infosys
+* 2017 - 2019: Software Engineer, Infosys
   * Developed automated script for trade searching in Java in conjunction with shell script ( UNIX) and SQL (Sybase & DB2) to parse data to all available Data Bases for Booking Parsing
   * Managed issues including daily health checks of applications and processes, working closely with operations teams to prioritise and resolve and/or mitigate incidents
   * Monitor production processes to ensure timely and effective MIFID II Equities reporting, followup and communication of problems to internal and external clients
