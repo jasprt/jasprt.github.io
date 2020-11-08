@@ -4,5 +4,5 @@ title: "Contact"
 permalink: /contact/
 author_profile: true
 ---
-Phone: +91-9878484115
 Email: singhjaspreet821@gmail.com
+Alternate Email: jaspreet.sg02@gmail.com
