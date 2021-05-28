@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-* I am working as a Software Engineer with [JP Morgan](https://www.jpmorganchase.com/) in Consumer & Investment Banking business.
+* I am working as a Software Engineer with [JP Morgan](https://www.jpmorganchase.com/) in Corporate & Investment Banking business.
 * Pursuing PG Diploma from [IIIT-Bangalore](https://www.iiitb.ac.in/)
 * Received my Bachelor’s Degree from [Punjabi University](http://www.punjabiuniversity.ac.in) in 2017.
 
