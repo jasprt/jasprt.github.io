@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-* I am working as a Software Engineer with [Infosys](https://www.infosys.com/) in collaboration with [Goldman Sachs](https://www.goldmansachs.com/index.html) specializing in developing trade booking systems for [Securities](https://www.goldmansachs.com/what-we-do/global-markets/index.html) business.
+* I am working as a Software Engineer with [JP Morgan](https://www.jpmorganchase.com/) in Consumer & Investment Banking business.
 * Pursuing PG Diploma from [IIIT-Bangalore](https://www.iiitb.ac.in/)
 * Received my Bachelor’s Degree from [Punjabi University](http://www.punjabiuniversity.ac.in) in 2017.
 
 
 # Skills/Awards
 
-* Programming: Java, Python, JavaScript, Shell Programming and Scripting, SQL, PL/ SQL,
+* Programming: Java, Python, JavaScript, React, HTML, CSS, Shell Programming and Scripting, SQL, PL/ SQL,
 HTML, CSS, Microsoft Excel
 * [Coursera](https://www.coursera.org/user/5f986e4bd78cc280d4d6ee5e9e33005c) Certifications: 
   * Object Oriented System Design Architecture
